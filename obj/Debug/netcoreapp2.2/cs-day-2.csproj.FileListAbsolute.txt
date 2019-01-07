@@ -1,0 +1,11 @@
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/bin/Debug/netcoreapp2.2/cs-day-2.deps.json
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/bin/Debug/netcoreapp2.2/cs-day-2.runtimeconfig.json
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/bin/Debug/netcoreapp2.2/cs-day-2.runtimeconfig.dev.json
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/bin/Debug/netcoreapp2.2/cs-day-2.dll
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/bin/Debug/netcoreapp2.2/cs-day-2.pdb
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/obj/Debug/netcoreapp2.2/cs-day-2.csprojAssemblyReference.cache
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/obj/Debug/netcoreapp2.2/cs-day-2.csproj.CoreCompileInputs.cache
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/obj/Debug/netcoreapp2.2/cs-day-2.AssemblyInfoInputs.cache
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/obj/Debug/netcoreapp2.2/cs-day-2.AssemblyInfo.cs
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/obj/Debug/netcoreapp2.2/cs-day-2.dll
+/Users/Chrissy/source/codeworks/cs-day-2/cs-day-2/obj/Debug/netcoreapp2.2/cs-day-2.pdb
